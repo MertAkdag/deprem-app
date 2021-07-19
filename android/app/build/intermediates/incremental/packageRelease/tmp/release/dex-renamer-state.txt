@@ -1,0 +1,4 @@
+#Fri Jul 16 04:18:20 TRT 2021
+base.0=/Users/mertakdag/Desktop/deprem-performace/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
